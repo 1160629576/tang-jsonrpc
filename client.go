@@ -1,4 +1,4 @@
-package go_jsonrpc
+package tang_jsonrpc
 
 import (
 	"errors"
